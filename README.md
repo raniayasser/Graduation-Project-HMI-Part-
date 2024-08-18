@@ -8,7 +8,7 @@ This project demonstrates my role in designing and implementing a sophisticated 
 ##### HMI Application
 The HMI application serves as the core user interface for monitoring drivers. It is built with QML for the frontend and C++ for the backend, integrating dynamic data with real-time feedback from machine learning models. 
 The application consists of the following five pages:
-### Main Page: Features a sidebar with shortcuts to all pages, dynamic data, and a clock.
+Main Page: Features a sidebar with shortcuts to all pages, dynamic data, and a clock.
 Debug Mode Page: Displays detailed driver monitoring data and a live camera feed, sourced from the ML models via communication servers.
 GPS Page: Shows the dynamic location of the driver’s car.
 Calling Page: Allows the driver to make calls to contacts.
