@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>debugPage.qml</file>
+        <file>Images/account.png</file>
+        <file>Images/callingicon.png</file>
+        <file>Images/discalling.png</file>
+        <file>Images/email.png</file>
+        <file>Fonts/Bungee-Inline.otf</file>
+        <file>Fonts/inria-serif/InriaSerif-Bold.otf</file>
+        <file>Fonts/inria-serif/InriaSerif-Regular.otf</file>
+        <file>HighAlert.qml</file>
+        <file>LowAlert.qml</file>
+        <file>callingPage.qml</file>
+        <file>Images/a2.png</file>
+        <file>Images/a3.png</file>
+        <file>Images/eyeopen.png</file>
+        <file>Images/user (1).png</file>
+        <file>gpsPage.qml</file>
+        <file>Images/close.png</file>
+        <file>test.qml</file>
+        <file>Images/mapsbenhaLocation.png</file>
+        <file>massagesPage.qml</file>
+        <file>Images/caution (1).png</file>
+        <file>Images/location.png</file>
+        <file>Images/phone-call (2).png</file>
+        <file>Images/highalerticon.png</file>
+        <file>Images/lowalerticon.png</file>
+        <file>Images/application.png</file>
+        <file>Images/carlogo2.jpg</file>
+        <file>Images/liveperson.jpg</file>
+        <file>Fonts/Iceland-Regular.ttf</file>
+        <file>Images/carRender.jpg</file>
+        <file>Images/carRender2.jpg</file>
+        <file>Images/carRander3.png</file>
+        <file>Images/CarStatus.jpg</file>
+        <file>Images/closew.png</file>
+        <file>Images/mouthOpen2.png</file>
+        <file>data.json</file>
+        <file>Images/ariana-grande-.png</file>
+        <file>Images/sound (1).png</file>
+        <file>Images/sound2.png</file>
+        <file>Images/Union.png</file>
+        <file>Images/Group 4.png</file>
+    </qresource>
+</RCC>
